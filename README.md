@@ -28,8 +28,8 @@ Example Directory Structure:
 Your project directory should look like this:
 
     /your_project/
-  yolov3.cfg
-  yolov3.weights
-  coco.names
-  your_script.py
+    yolov3.cfg
+    yolov3.weights
+    coco.names
+    your_script.py
 
